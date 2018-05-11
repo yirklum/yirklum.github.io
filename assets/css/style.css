@@ -34,6 +34,7 @@ header {
 .top {
     background-color: #4aaaa5;
     float: left;
+    height: 100px;
 }
 
 .top-row {
